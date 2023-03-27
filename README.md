@@ -11,12 +11,12 @@ Users can participate in the quiz based on the categories and the dificulty leve
 
 **Front page**
 
-<img src="" title="Front page"> 
+<img src="https://github.com/PythonGenzo/Quiz-hub-main/blob/main/screenshots/Quiz-1.png" title="Front page"> 
 
 **Quiz page** 
 
-<img src="" title="Quiz page">
+<img src="https://github.com/PythonGenzo/Quiz-hub-main/blob/main/screenshots/Quiz-2.png" title="Quiz page">
 
 **Result page**
 
-<img src="" title="Result page">
+<img src="https://github.com/PythonGenzo/Quiz-hub-main/blob/main/screenshots/Quiz-3.png" title="Result page">
